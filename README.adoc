@@ -1,0 +1,3 @@
+NASDAQ trading robot written in python
+
+pet project
